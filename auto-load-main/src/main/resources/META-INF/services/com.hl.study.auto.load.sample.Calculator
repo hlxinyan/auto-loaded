@@ -1,0 +1,3 @@
+default=com.hl.study.auto.load.sample.impl.DefaultCalculator
+two=com.hl.study.auto.load.sample.impl.TwoCalculator
+three=com.hl.study.auto.load.sample.impl.ThreeCalculator
